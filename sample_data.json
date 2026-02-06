@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Introduction to Machine Learning",
+    "content": "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It uses algorithms to analyze data, identify patterns, and make decisions.",
+    "url": "https://example.com/articles/ml-intro",
+    "published_date": "2024-01-15",
+    "author": "Dr. Jane Smith"
+  },
+  {
+    "title": "Data Science Fundamentals",
+    "content": "Data science combines statistics, programming, and domain expertise to extract insights from large datasets. It involves data collection, cleaning, analysis, and visualization.",
+    "url": "https://datascience.org/fundamentals",
+    "published_at": "2024-02-20 14:30:00",
+    "tags": ["data", "science", "analytics"]
+  },
+  {
+    "title": "  Python Programming  ",
+    "content": "<p>Python is a high-level programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming.</p>",
+    "url": "https://python.org/docs",
+    "created_at": 1704067200,
+    "category": "programming"
+  },
+  {
+    "title": "Web Development",
+    "content": "Short",
+    "url": "https://webdev.com/tutorials"
+  },
+  {
+    "title": "",
+    "content": "This article discusses the latest trends in web development, including modern frameworks, responsive design, and performance optimization techniques.",
+    "url": "https://webdev.com/trends"
+  },
+  {
+    "title": "Cloud Computing",
+    "content": "Cloud computing provides on-demand access to computing resources over the internet. It offers scalability, cost-effectiveness, and flexibility for businesses of all sizes.",
+    "url": "invalid-url-format"
+  },
+  {
+    "title": "Cybersecurity Best Practices",
+    "content": "Protecting digital assets requires a multi-layered approach. Key practices include using strong passwords, enabling two-factor authentication, keeping software updated, and being cautious with email attachments.",
+    "url": "https://security.org/best-practices",
+    "updated_at": "2024/03/10",
+    "priority": "high"
+  },
+  {
+    "title": "Artificial Intelligence &amp; Ethics",
+    "content": "As AI systems become more prevalent, ethical considerations are crucial. Topics include bias in algorithms, privacy concerns, job displacement, and the need for transparent AI governance.",
+    "url": "https://ai-ethics.org/discussion",
+    "date": "Mar 15, 2024"
+  },
+  {
+    "title": "Database Management",
+    "content": "DB",
+    "url": "https://dbms.com/intro"
+  },
+  {
+    "title": "Software Engineering Principles",
+    "content": "Good software engineering practices include writing clean code, following design patterns, conducting thorough testing, maintaining documentation, and using version control systems effectively.",
+    "url": "https://software-eng.com/principles",
+    "published_date": "2024-04-01",
+    "views": 1250
+  }
+]

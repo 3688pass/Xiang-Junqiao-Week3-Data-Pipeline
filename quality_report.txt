@@ -1,0 +1,24 @@
+============================================================
+Data Quality Report
+============================================================
+Generated at (UTC): 2026-02-06T06:56:48.148718+00:00
+
+Summary
+------------------------------------------------------------
+Total records processed: 10
+Valid records: 6
+Invalid records: 4
+Valid rate: 60.0%
+
+Completeness by field (%)
+------------------------------------------------------------
+title     :  90.0%
+content   : 100.0%
+url       : 100.0%
+
+Common validation failures
+------------------------------------------------------------
+content_too_short:min_10: 2
+missing_required_field:title: 1
+invalid_url_format: 1
+============================================================
